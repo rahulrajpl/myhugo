@@ -1,6 +1,6 @@
 baseURL = 'http://radomwalk.in/'
 languageCode = 'en-us'
-title = 'Rahul Raj_HUGO'
+title = "Rahul's Weblogs"
 theme = 'LoveIt'
 
 # Author config
